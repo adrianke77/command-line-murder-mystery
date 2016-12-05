@@ -1,0 +1,105 @@
+  258  cat readme.md
+  259  history
+  260  ls
+  261  cat cheatsheet.pdf
+  262  ls
+  263  cat instructions
+  264  cd mystery
+  265  ls
+  266  grep crimescene CLUE
+  267  cd..
+  268  cd ..
+  269  ls
+  270  ls
+  271  cd mystery
+  272  ls
+  273  grep "CLUE" crimescene
+  274  grep "CLUE" crimescene | notes.txt
+  275  touch notes.txt
+  276  grep "CLUE" crimescene | touch notes.txt
+  277  cat notes.txt
+  278  ls
+  279  rm notes.txt
+  280  grep "CLUE" crimescene
+  281  cd interviews
+  282  ls
+  283  cd..
+  284  cd ..
+  285  ls
+  286  grep "CLUE" crimescene
+  287  ls
+  288  cd interviews
+  289  grep "Annabel"
+  290  grep "Annabel" *
+  291  grep * "hello"
+  292  cd..
+  293  cd ..
+  294  ls
+  295  ls
+  296  cd wdi
+  297  ls
+  298  cd unit1
+  299  ls
+  300  cd command-line-murder-mystery/
+  301  ls
+  302  cd mystery/
+  303  ls
+  304  grep 'CLUE' crimescene
+  305  grep 'Annabel' *
+  306  grep -r 'Annabel' *
+  307  grep -r 'Church' *
+  308  head interviews/interview-699607
+  309  head vehicles
+  310  head -n15 vehicles
+  311  grep -A 6
+  312  grep -A 6 "L337" vehicles
+  313  grep -A 6 "L337" vehicles | grep "6"
+  314  grep -A 6 "L337" vehicles >>l337
+  315  ls
+  316  touch l337
+  317  grep -A 6 "L337" vehicles >> l337
+  318  cat l337
+  319  grep "
+  320  grep "honda" l337 | grep "blue"
+  321  grep "honda" l337
+  322  cat l337
+  323  grep "Honda" l337 | grep "Blue
+  324  grep "Honda" l337 | grep "Blue"
+  325  grep "Honda" l337
+  326  grep -c4"Honda" l337
+  327  grep -c4 "Honda" l337
+  328  grep -C4 "Honda" l337
+  329  grep -B4 "Honda" l337
+  330  grep -A4 "Honda" l337
+  331  grep "Jeremy Bowers" -r *
+  332  head -l284 interviews\Dunstable-Road | tail
+  333  head -help
+  334  head --help
+  335  head -n284 interviews\Dunstable-Road | tail
+  336  head -n284 interviews/Dunstable-Road | tail
+  337  cd interviews
+  338  cd ..
+  339  head -n284 streets/Dunstable-Road | tail
+  340  cd streets
+  341  head -n284 Dunstable-Road | tail
+  342  ls
+  343  head -n284 Dunstable_Road | tail
+  344  cd ..
+  345  cd interviews
+  346  cat interview_9620713
+  347  cat interview-9620713
+  348  cd ..
+  349  ls
+  350*
+  351*
+  352*
+  353  lsD
+  354  ls
+  355  cat ./interviews/interview-9620713
+  356  cat ./interviews/interview-29741223
+  357  grep "Mike Bostock" -r *
+  358  head -n287 ./streets/Senders_Court | tail -n1
+  359  cat ./interviews/interview-290346
+  360  history
+
+Jeremy Bowers
